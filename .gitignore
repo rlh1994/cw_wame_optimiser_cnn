@@ -1,0 +1,16 @@
+
+*.bbl
+*.aux
+*.fdb_latexmk
+*.fls
+*.blg
+*.log
+*.gz
+*.toc
+*.xdv
+*.out
+ML_CW.pdf
+ML_CW.bcf
+*.xml
+ML_CW.tex
+ML_coursework-v1-2020.pdf

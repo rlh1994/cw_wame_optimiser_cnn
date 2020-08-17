@@ -3,5 +3,5 @@ The purpose of this work, set as a piece of coursework,  was to implement the WA
 
 
 # References
-[1] A. Mosca and G. D. Magoulas, “Training Convolutional Networks with Weight­wise Adaptive Learning Rates,” in ESANN 2017, 2017. [Online]. Available: https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2017-50.pdf
+[1] A. Mosca and G. D. Magoulas, “Training Convolutional Networks with Weight­wise Adaptive Learning Rates,” in ESANN 2017, 2017. [Online]. Available: https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2017-50.pdf  
 [2] G. Cohen, S. Afshar, J. Tapson, and A. van Schaik, “EMNIST: an extension of MNIST to handwritten letters,” feb 2017. [Online]. Available: http://arxiv.org/abs/1702.05373
